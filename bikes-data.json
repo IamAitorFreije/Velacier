@@ -1,0 +1,127 @@
+[
+{
+      "productTitle": "Standert Triebwerk Silver Lily",
+      "currentPrice": "6,500.00 EUR",
+      "originalPrice": "7,100.00 EUR",
+      "discount": "SAVE 600€",
+      "image": "imgs/Triebwerk/Standert-Triebwerk-Silver-Lily_1700x.webp",
+      "sizes": [
+        {"size": "48", "status": "low-stock"},
+        {"size": "50", "status": "low-stock"},
+        {"size": "52", "status": "in-stock"},
+        {"size": "54", "status": "in-stock"},
+        {"size": "56", "status": "out-of-stock"},
+        {"size": "58", "status": "out-of-stock"},
+        {"size": "60", "status": "low-stock"},
+        {"size": "62", "status": "low-stock"},
+        {"size": "64", "status": "out-of-stock"}
+      ],
+      "bikeSpecs": [
+        "Iron",
+        "Sram Force eTap",
+        "DTSwiss ERC 1400",
+        "Fi'zi:k Vento",
+        "Columbus components"
+      ]
+    },
+    {
+      "productTitle": "Triebwerk Blue Orchid",
+      "currentPrice": "6,500.00 EUR",
+      "originalPrice": "7,100.00 EUR",
+      "discount": "SAVE 600€",
+      "image": "imgs/Standert-Triebwerk-Blue-Orchid_1700x.png",
+      "sizes": [
+        {"size": "48", "status": "low-stock"},
+        {"size": "50", "status": "low-stock"},
+        {"size": "52", "status": "in-stock"},
+        {"size": "54", "status": "in-stock"},
+        {"size": "56", "status": "out-of-stock"},
+        {"size": "58", "status": "out-of-stock"},
+        {"size": "60", "status": "low-stock"},
+        {"size": "62", "status": "low-stock"},
+        {"size": "64", "status": "out-of-stock"}
+      ],
+      "bikeSpecs": [
+        "Iron",
+        "Sram Force eTap",
+        "DTSwiss ERC 1400",
+        "Fi'zi:k Vento",
+        "Columbus components"
+      ]
+    },
+    {
+      "productTitle": "Colnago Steelnovo",
+      "currentPrice": "17,000.00 EUR",
+      "originalPrice": "17,100.00 EUR",
+      "discount": "SAVE 100€",
+      "image": "imgs/Steelnovo.png",
+      "sizes": [
+        {"size": "48", "status": "out-of-stock"},
+        {"size": "50", "status": "out-of-stock"},
+        {"size": "52", "status": "out-of-stock"},
+        {"size": "54", "status": "low-stock"},
+        {"size": "56", "status": "out-of-stock"},
+        {"size": "58", "status": "low-stock"},
+        {"size": "60", "status": "low-stock"},
+        {"size": "62", "status": "out-of-stock"},
+        {"size": "64", "status": "out-of-stock"}
+      ],
+      "bikeSpecs": [
+        "Titanium",
+        "Campagnolo Super Record",
+        "Bora Ultra Two",
+        "Fi'zi:k Arione",
+        "Pirelli P Zero"
+      ]
+    },
+    {
+        "productTitle": "Angel Heaven 3D Titanium Integrated",
+        "currentPrice": "11,100.00 EUR",
+        "originalPrice": "11,900.00 EUR",
+        "discount": "SAVE 800€",
+        "image": "imgs/angel-cycles.png",
+        "sizes": [
+          {"size": "48", "status": "low-stock"},
+          {"size": "50", "status": "low-stock"},
+          {"size": "52", "status": "in-stock"},
+          {"size": "54", "status": "in-stock"},
+          {"size": "56", "status": "in-stock"},
+          {"size": "58", "status": "low-stock"},
+          {"size": "60", "status": "low-stock"},
+          {"size": "62", "status": "low-stock"},
+          {"size": "64", "status": "out-of-stock"}
+        ],
+        "bikeSpecs": [
+          "Titanium",
+          "Sram Red eTap",
+          "Scope",
+          "Selle Italia",
+          "Vitoria Corsa"
+        ]
+      },
+      {
+        "productTitle": "Passoni XXti",
+        "currentPrice": "13,900.00 EUR",
+        "originalPrice": "14,200.00 EUR",
+        "discount": "SAVE 300€",
+        "image": "imgs/passoni-xxti.png",
+        "sizes": [
+          {"size": "48", "status": "out-of-stock"},
+          {"size": "50", "status": "low-stock"},
+          {"size": "52", "status": "low-stock"},
+          {"size": "54", "status": "low-stock"},
+          {"size": "56", "status": "in-stock"},
+          {"size": "58", "status": "out-of-stock"},
+          {"size": "60", "status": "low-stock"},
+          {"size": "62", "status": "out-of-stock"},
+          {"size": "64", "status": "out-of-stock"}
+        ],
+        "bikeSpecs": [
+          "Iron",
+          "Sram Force eTap",
+          "DTSwiss ERC 1400",
+          "Fi'zi:k Vento",
+          "Columbus components"
+        ]
+      }
+  ]
